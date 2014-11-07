@@ -1,0 +1,69 @@
+.row{
+    margin-top: 2em;
+    margin-bottom: 4em;
+    margin-left: 6em;
+    margin-right: 6em;
+}
+
+.btn-default{
+    transition: 0.5s all;
+}
+
+.btn-default:hover{
+    background: #3498db;
+    color: #fff;
+    border: 1px solid #3498db;
+}
+
+.stock-search{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 1em;
+}
+
+.stock-search input{
+    width: 40%;
+    height: 2.4em;
+}
+
+th, td{
+    margin: auto;
+    border: 1px solid #000;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.results{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.results table{
+    margin: 0 auto;
+}
+
+.refresh-current, .refresh-current-full, .view-full-profile{
+    margin-bottom: 1em;
+}
+
+.company-profile{
+    text-align: center;
+}
+
+.company-profile table{
+    margin: auto;
+    margin-bottom: 1em;
+}
+
+.recommended{
+    margin-top: 2em;
+    margin-bottom: 1em;    
+}
+
+.faq-termns{
+    font-size: 0.8em;
+    line-height: 0.8em;
+    margin-top: 2em;
+}
+
+
